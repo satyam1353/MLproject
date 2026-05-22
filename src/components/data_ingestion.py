@@ -98,6 +98,6 @@ if __name__ == "__main__":
         modeltrainer.initiate_model_trainer(
             train_arr,
             test_arr,
-            preprocessor_path
+           # preprocessor_path
         )
     )
